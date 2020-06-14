@@ -4,9 +4,9 @@ This application will let the admin see who is viewing the following document cu
 details of when the user logged in along with its time stamp 
 
 install requirements :
-python 
-Django 
-Pillows
+python ,
+Django ,
+Pillows,
 Requests
 
 
